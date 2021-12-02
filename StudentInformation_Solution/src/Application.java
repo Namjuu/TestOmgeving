@@ -12,6 +12,7 @@ public class Application implements Runnable {
     }
 
     public void run() {
+        //testing changes
         //Read schools
         schools = readFile("students.csv");
 
